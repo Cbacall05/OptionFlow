@@ -101,7 +101,7 @@ Constrain σ > 0 via `softplus` or `exp`, and recover an **implied-volatility su
 
 ## 🧠 Author & Status
 
-**Lead Researcher:** [Your Name]  
+**Lead Researcher:** [Calvin Bacall]  
 **Affiliation:** University of Notre Dame — Physics / Economics / Theology  
 **Current Focus:** Refining PINN loss-term balancing and extending to free-boundary PDEs.  
 
