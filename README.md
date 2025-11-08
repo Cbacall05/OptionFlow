@@ -83,7 +83,7 @@ Constrain σ > 0 via `softplus` or `exp`, and recover an **implied-volatility su
 
 ## 📊 Planned Deliverables
 
-- **Notebook 1:** FD solver and analytical validation.  
+- **Notebook 1:** FD solver and analytical validation. ✅
 - **Notebook 2:** PINN reproducing the Black–Scholes solution.  
 - **Notebook 3:** Research extension (American or inverse volatility).  
 - **Benchmark report:** Accuracy, runtime, and Greeks comparison.  
